@@ -41,7 +41,7 @@ site
         plugins: [daisyui],
         daisyui: {
           themes: ["cupcake", "forest"],
-          darkTheme: "forest",
+          // darkTheme: "forest",
         },
       },
     })
