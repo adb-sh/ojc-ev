@@ -35,6 +35,8 @@ export default ({ title, children, ...props }) => (
       <link rel="stylesheet" href="/code.css" />
       <link rel="stylesheet" href="/main.css" />
       <link rel="stylesheet" href="/fonts.css" />
+      <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
+      <script src="/main.js" />
       {
         /* <link
         rel="stylesheet"
