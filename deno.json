@@ -10,6 +10,7 @@
     "jsxImportSource": "npm:preact"
   },
   "imports": {
-    "lume/": "https://deno.land/x/lume@v1.17.0/"
+    "lume/": "https://deno.land/x/lume@v2.2.3/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.5.5/"
   }
 }

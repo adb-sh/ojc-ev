@@ -3,12 +3,11 @@ layout: Default.tsx
 tags:
   - blog
 title: Hello World
-imgUrl: https://placehold.co/600x400
+imgUrl: 'https://placehold.co/600x400'
 date: 2024-01-06T14:00:00.000Z
 blog: true
-excerpt: hello world :D
+excerpt: 'hello world :D'
 ---
-
 # Hello World
 
 ![avocado pesto](https://placehold.co/600x400)

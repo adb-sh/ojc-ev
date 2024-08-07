@@ -7,9 +7,12 @@ title: Blog
 
 <div>
   {page.data.results.map((page) => (
-    <a href={page.data.url}>
+    <a href={page.url}>
       <comp.BlogListItem page={page} />
     </a>
+    // <div>
+    //   {JSON.stringify(Object.keys(page))}
+    // </div>
   ))}
 </div>
 

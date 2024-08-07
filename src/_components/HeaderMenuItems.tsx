@@ -5,17 +5,41 @@ const pages = [
       title: "News",
     },
   },
+  {
+    data: {
+      url: "/kalender/",
+      title: "Kalender",
+    },
+  },
+  {
+    data: {
+      url: "/verein/",
+      title: "Verein",
+    },
+  },
+  {
+    data: {
+      url: "/mitglied-werden/",
+      title: "Fördermitglied werden",
+    },
+  },
+  {
+    data: {
+      url: "/kontakt/",
+      title: "Kontakt",
+    },
+  },
 ];
 
 export default ({ search, ...props }) => (
   <>
     {[
-      ...search.pages("menu.header=true"),
+      // ...search.pages("menu.header=true"),
       ...pages,
     ].map((page) => {
       const subpages = search.pages(
         `menu.header[${page.data.slug}]`,
-        "date=desc",
+        "date=desc"
       );
       if (subpages.length > 0) {
         return (
@@ -39,9 +63,7 @@ export default ({ search, ...props }) => (
         return (
           <li>
             <a href={page.data.url}>
-              <div class="btn btn-ghost m-2">
-                {page.data.title}
-              </div>
+              <div class="btn btn-ghost m-1">{page.data.title}</div>
             </a>
           </li>
         );

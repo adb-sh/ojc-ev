@@ -8,9 +8,10 @@ import postcss from "lume/plugins/postcss.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import sass from "lume/plugins/sass.ts";
 import feed from "lume/plugins/feed.ts";
-import netlifyCMS from "lume/plugins/netlify_cms.ts";
+// import netlifyCMS from "lume/plugins/netlify_cms.ts";
 import * as colors from "https://esm.sh/twind@0.16.19/colors";
 import daisyui from "npm:daisyui";
+import themes from "https://esm.sh/daisyui/src/theming/themes";
 
 const site = lume({
   src: "./src",
@@ -40,7 +41,15 @@ site
         },
         plugins: [daisyui],
         daisyui: {
-          themes: ["cupcake", "forest"],
+          themes: [
+            {
+              custom: {
+                ...themes.cupcake,
+                accent: "#00bf00",
+                secondary: "#ffa640",
+              },
+            },
+          ],
           // darkTheme: "forest",
         },
       },

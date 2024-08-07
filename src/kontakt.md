@@ -5,6 +5,6 @@ menu:
   footer: true
 ---
 
-# Impressum
+# Kontakt
 
 [kontakt@ojc-ev.de](mailto:kontakt@ojc-ev.de)
