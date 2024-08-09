@@ -8,6 +8,7 @@ import postcss from "lume/plugins/postcss.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import sass from "lume/plugins/sass.ts";
 import feed from "lume/plugins/feed.ts";
+import esbuild from "lume/plugins/esbuild.ts";
 // import netlifyCMS from "lume/plugins/netlify_cms.ts";
 import * as colors from "https://esm.sh/twind@0.16.19/colors";
 import daisyui from "npm:daisyui";
@@ -20,6 +21,26 @@ const site = lume({
 
 site
   // .use(netlifyCMS())
+  // .use(
+  //   esbuild({
+  //     extensions: [".js"],
+  //     options: {
+  //       bundle: true,
+  //       format: "esm",
+  //       minify: true,
+  //       keepNames: true,
+  //       platform: "browser",
+  //       target: "esnext",
+  //       treeShaking: true,
+  //       outdir: "dist"
+  //     },
+  //     esm: {
+  //       deps: {
+  //         fullcalendar: "preact",
+  //       },
+  //     },
+  //   })
+  // )
   .use(jsx_preact())
   .use(mdx())
   .use(pagefind())
@@ -45,7 +66,7 @@ site
             {
               custom: {
                 ...themes.cupcake,
-                accent: "#00bf00",
+                accent: "#22c55e",
                 secondary: "#ffa640",
               },
             },

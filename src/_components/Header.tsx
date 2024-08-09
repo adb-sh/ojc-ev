@@ -58,7 +58,7 @@ export default ({ ...props }) => (
           aria-label="close sidebar"
           class="drawer-overlay"
         ></label>
-        <nav class="menu p-4 w-80 min-h-full bg-base-200">
+        <nav class="p-4 w-80 min-h-full bg-base-200">
           <ul>
             <li>
               <a class="btn btn-ghost" href="/">

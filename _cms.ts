@@ -11,7 +11,7 @@ cms.collection("news", "src:news/*.md", [
     value: "Default.tsx",
   },
   "title: text",
-  "date: datetime",
+  "date: date",
   "imgUrl: file",
   "excerpt: text",
   "content: markdown",
@@ -20,6 +20,16 @@ cms.collection("news", "src:news/*.md", [
     type: "hidden",
     value: true,
   },
+]);
+
+cms.collection("pages", "src:./*.md", [
+  {
+    name: "layout",
+    type: "hidden",
+    value: "Default.tsx",
+  },
+  "title: text",
+  "content: markdown",
 ]);
 
 export default cms;
