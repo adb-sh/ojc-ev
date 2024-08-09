@@ -41,7 +41,7 @@ export default () => {
             />
           </div>
         </div>
-        <hr />
+        <hr class="border-gray-400" />
 
         <h3>Kontaktdaten</h3>
         <div class="flex flex-wrap my-2 mx-[-0.25rem]">
@@ -114,7 +114,7 @@ export default () => {
             />
           </div>
         </div>
-        <hr />
+        <hr class="border-gray-400" />
 
         <h3>Zahlungsdaten</h3>
         <div class="flex flex-wrap my-2 mx-[-0.25rem]">
@@ -156,7 +156,7 @@ export default () => {
           </div>
         </div>
 
-        <div class="flex items-start my-2 p-2 dark:border-white border-gray-400 border">
+        <div class="flex items-start my-2 p-2 border-gray-400 border rounded-3xl">
           <div class="p-3">
             <input type="checkbox" name="sepa" class="checkbox" />
           </div>

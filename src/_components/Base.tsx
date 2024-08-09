@@ -58,7 +58,7 @@ export default ({ title, children, ...props }) => (
       <div>
         <props.comp.Header {...props} />
 
-        <main class="content">
+        <main class="content mt-24">
           {children}
         </main>
       </div>
