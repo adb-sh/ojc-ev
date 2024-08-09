@@ -23,8 +23,8 @@ Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist.
 
 ### 2. Rechtsgrundlagen für die Verarbeitung personenbezogener Daten
 
-Dieses Webangebot des Turing eV., und seine einzelnen Angebote sind Teil der
-Öffentlichkeitsarbeit des Turing eV.. Rechtsgrundlage für die Verarbeitung
+Dieses Webangebot des Offener Jugendring Coswig e.V.., und seine einzelnen Angebote sind Teil der
+Öffentlichkeitsarbeit des Offener Jugendring Coswig e.V... Rechtsgrundlage für die Verarbeitung
 personenbezogener Daten im Rahmen dieser der Öffentlichkeitsarbeit ist Art. 6
 Abs. 1 lit. e) DSGVO in Verbindung mit § 3 BDSG. Soweit wir für
 Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung einholen, dient
@@ -154,18 +154,18 @@ anonymisiert erfasst.
 Wir nutzen auf unserer Webseite das Open-Source-Software-Tool Matomo (ehemals
 PIWIK) zur Analyse des Surfverhaltens unserer Nutzer. Das ist ein
 Open-Source-Tool zur Web-Analyse. Mit Matomo werden keine Daten an Server
-übermittelt, die außerhalb der Kontrolle des Turing eV. liegen. Ohne Ihre
+übermittelt, die außerhalb der Kontrolle des Offener Jugendring Coswig e.V.. liegen. Ohne Ihre
 Zustimmung erhebt Matomo keine Sitzungsdaten.
 
 Matomo verwendet Cookies. Diese Textdateien werden auf Ihrem Computer
 gespeichert und machen es dem BPA möglich, die Benutzung seiner Webseite zu
 analysieren. Dazu werden die durch den Cookie gewonnenen Informationen über die
-Nutzung an den Server des Turing eV. übertragen und gespeichert, damit das
+Nutzung an den Server des Offener Jugendring Coswig e.V.. übertragen und gespeichert, damit das
 Nutzungsverhalten ausgewertet werden kann. Ihre IP-Adresse ist für uns eine
 anonyme Kennung; wir haben keine technische Möglichkeit, Sie damit als
 angemeldeten Nutzer zu identifizieren. Sie bleiben als Nutzer anonym.
 
-Der Turing eV. versteht diese Analyse als Bestandteil seines Internet-Services.
+Der Offener Jugendring Coswig e.V.. versteht diese Analyse als Bestandteil seines Internet-Services.
 Es möchte damit die Webseite weiter verbessern und noch mehr an die Bedürfnisse
 der Nutzerinnen und Nutzer anpassen.
 

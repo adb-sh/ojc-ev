@@ -1,5 +1,5 @@
 # lume
 _site/
 _bin/
-_cm.lume.ts
-_cm.serve.ts
+_cms.lume.ts
+_cms.serve.ts
