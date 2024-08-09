@@ -67,7 +67,7 @@ site
               custom: {
                 ...themes.cupcake,
                 accent: "#22c55e",
-                secondary: "#ffa640",
+                primary: "#ffa640",
               },
             },
           ],

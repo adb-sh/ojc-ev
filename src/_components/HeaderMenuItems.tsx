@@ -19,6 +19,12 @@ const pages = [
   },
   {
     data: {
+      url: "/satzung/",
+      title: "Satzung",
+    },
+  },
+  {
+    data: {
       url: "/mitglied-werden/",
       title: "Fördermitglied werden",
     },
