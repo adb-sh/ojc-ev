@@ -16,7 +16,7 @@ import themes from "https://esm.sh/daisyui/src/theming/themes";
 
 const site = lume({
   src: "./src",
-  location: new URL("https://cookbook.albans.world/"),
+  location: new URL("https://ojc-ev.de/"),
 });
 
 site
