@@ -19,6 +19,12 @@ const pages = [
   },
   {
     data: {
+      url: "/satzung/",
+      title: "Satzung",
+    },
+  },
+  {
+    data: {
       url: "/mitglied-werden/",
       title: "Fördermitglied werden",
     },
@@ -62,9 +68,7 @@ export default ({ search, ...props }) => (
       } else {
         return (
           <li>
-            <a href={page.data.url}>
-              <div class="btn btn-ghost m-1">{page.data.title}</div>
-            </a>
+            <a href={page.data.url} class="btn btn-ghost">{page.data.title}</a>
           </li>
         );
       }

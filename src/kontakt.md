@@ -2,7 +2,7 @@
 layout: Default.tsx
 title: Kontakt
 menu:
-  footer: true
+  footer: fale
 ---
 
 # Kontakt

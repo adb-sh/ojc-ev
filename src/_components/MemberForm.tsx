@@ -41,7 +41,7 @@ export default () => {
             />
           </div>
         </div>
-        <hr />
+        <hr class="border-gray-400" />
 
         <h3>Kontaktdaten</h3>
         <div class="flex flex-wrap my-2 mx-[-0.25rem]">
@@ -114,7 +114,7 @@ export default () => {
             />
           </div>
         </div>
-        <hr />
+        <hr class="border-gray-400" />
 
         <h3>Zahlungsdaten</h3>
         <div class="flex flex-wrap my-2 mx-[-0.25rem]">
@@ -144,11 +144,11 @@ export default () => {
 
         <div class="flex flex-wrap my-2 mx-[-0.25rem]">
           <div class="flex flex-col p-1 w-full md:w-1/2">
-            <label for="contribution">Freiwilliger Jahresförderbeitrag</label>
+            <label for="contribution">Freiwilliger Quartalsförderbeitrag</label>
             <input
               class="input input-bordered"
               type="text"
-              placeholder="bspw. 60,00€"
+              placeholder="empfohlen: 30,00€"
               id="contribution"
               name="contribution"
               required
@@ -156,7 +156,7 @@ export default () => {
           </div>
         </div>
 
-        <div class="flex items-start my-2 p-2 dark:border-white border-gray-400 border">
+        <div class="flex items-start my-2 p-2 border-gray-400 border rounded-3xl">
           <div class="p-3">
             <input type="checkbox" name="sepa" class="checkbox" />
           </div>
@@ -168,7 +168,7 @@ export default () => {
               Lastschriften einzulösen.
             </p>
             <p class="text-sm">
-              Gläubiger-Identifikationsnummer: DEXXXXXXXXXXXXXXX. Die
+              Gläubiger-Identifikationsnummer: DE91ZZZ00002726941. Die
               Mandatsreferenz wird mit der Bestätigung der Aufnahme mitgeteilt.
             </p>
             <p class="text-sm italic">
