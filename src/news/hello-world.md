@@ -4,7 +4,7 @@ tags:
   - blog
 title: Hello World
 imgUrl: 'https://placehold.co/600x400'
-blog: 'true'
+blog: true
 excerpt: 'hello world :D'
 ---
 # Hello World

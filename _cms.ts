@@ -11,15 +11,22 @@ cms.collection("news", "src:news/*.md", [
     value: "Default.tsx",
   },
   "title: text",
-  "date: date",
+  {
+    name: "blog",
+    label: "show on news page",
+    type: "checkbox",
+    attributes: {
+      checked: "checked",
+    }
+  },
+  {
+    name: "date",
+    type: "date",
+    mode: "create",
+  },
   "imgUrl: file",
   "excerpt: text",
   "content: markdown",
-  {
-    name: "blog",
-    type: "hidden",
-    value: true,
-  },
 ]);
 
 cms.collection("pages", "src:./*.md", [
