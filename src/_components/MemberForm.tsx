@@ -5,6 +5,17 @@ export default () => {
         <h3>Persönliche Angaben</h3>
         <div class="flex flex-wrap my-2 mx-[-0.25rem]">
           <div class="flex flex-col p-1 w-full md:w-1/2">
+            <label for="company">Firma</label>
+            <input
+              class="input input-bordered w-full"
+              type="text"
+              placeholder=""
+              id="company"
+              name="company"
+              required
+            />
+          </div>
+          <div class="flex flex-col p-1 w-full md:w-1/2">
             <label for="name">Vorname</label>
             <input
               class="input input-bordered w-full"
@@ -15,6 +26,9 @@ export default () => {
               required
             />
           </div>
+        </div>
+
+        <div class="flex flex-wrap my-2 mx-[-0.25rem]">
           <div class="flex flex-col p-1 w-full md:w-1/2">
             <label for="surname">Nachname</label>
             <input
@@ -26,9 +40,6 @@ export default () => {
               required
             />
           </div>
-        </div>
-
-        <div class="flex flex-wrap my-2 mx-[-0.25rem]">
           <div class="flex flex-col p-1 w-full md:w-1/2">
             <label for="birthday">Geburtsdatum</label>
             <input
@@ -162,10 +173,11 @@ export default () => {
           </div>
           <div class="p-1">
             <p>
-              Ich ermächtige den Offener Jugendring Coswig e.V., regelmäßig Zahlungen von meinem
-              Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein
-              Kreditinstitut an, die vom Offener Jugendring Coswig e.V. auf mein Konto gezogenen
-              Lastschriften einzulösen.
+              Ich ermächtige den Offener Jugendring Coswig e.V., regelmäßig
+              Zahlungen von meinem Konto mittels Lastschrift einzuziehen.
+              Zugleich weise ich mein Kreditinstitut an, die vom Offener
+              Jugendring Coswig e.V. auf mein Konto gezogenen Lastschriften
+              einzulösen.
             </p>
             <p class="text-sm">
               Gläubiger-Identifikationsnummer: DE91ZZZ00002726941. Die
@@ -186,8 +198,7 @@ export default () => {
           placeholder="Lieber Jugendring Coswig ..."
           id="message"
           name="message"
-        >
-        </textarea>
+        ></textarea>
         <button class="btn btn-primary my-2" type="submit">
           Fördermitglied werden!
         </button>
