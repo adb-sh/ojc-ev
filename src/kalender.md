@@ -8,6 +8,7 @@ menu:
 <div data-markdown="true">
 
 # Kalender
+
 </div>
 
-<div id='calendar'></div>
+<iframe width="100%" height="600" src="https://cloud.ojc-ev.de/apps/calendar/embed/sgsDD9t5j9W2FmQo/dayGridMonth/now"><iframe>
