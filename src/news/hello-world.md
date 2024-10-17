@@ -3,40 +3,19 @@ layout: Default.tsx
 tags:
   - blog
 title: Hello World
-imgUrl: 'https://placehold.co/600x400'
+imgUrl: "https://placehold.co/600x400"
 blog: true
-excerpt: 'hello world :D'
+excerpt: "hello world"
 ---
+
 # Hello World
 
 ![avocado pesto](https://placehold.co/600x400)
 
-## Zutaten für das Pesto:
+Non placeat nesciunt tenetur ut. Delectus reprehenderit corporis et dolor nam tenetur. Corrupti eos velit ipsum quo.
 
-| Menge      | Zutat            |
-| ---------- | ---------------- |
-| 1 m.-große | Avocado(s)       |
-| 2          | Knoblauchzehe(n) |
-| 2 EL       | Olivenöl         |
-| 1 Handvoll | Basilikumblätter |
+Ducimus quaerat veniam quia qui quo nam consequatur deserunt. Et sit nemo quod corporis possimus eos. Beatae soluta amet qui. Dicta suscipit beatae tempore sunt dolores. Eos rem vero sit quia doloribus id facere. Dignissimos est nobis quibusdam maxime doloribus nihil molestiae.
 
-## Außerdem:
+Numquam ipsam ea deleniti eius veniam nihil. Porro voluptate ut consequatur est cum ea illum. Rerum ea numquam saepe ut voluptatem sapiente. Laborum quo quia ipsum in quod autem nostrum facilis. Esse in ipsum voluptate aut voluptatibus.
 
-| Menge | Zutat                                |
-| ----- | ------------------------------------ |
-| 300 g | Spaghetti                            |
-| 10    | Cherrytomate(n) oder Cocktailtomaten |
-|       | Salz und Pfeffer                     |
-| 50 g  | Parmesan                             |
-|       | Pinienkerne                          |
-
-## Zubereitung:
-
-Die Avocado halbieren und schälen. Mit Knoblauch, Olivenöl und Basilikumblättchen zu einem Pesto pürieren. Einige Basilikumblättchen zum Garnieren aufheben.\
-\
-Die Spaghetti nach Packungsanleitung in Salzwasser kochen.\
-Tomaten halbieren und bei 180 Grad Ober- Unterhitze kurz anrösten.
-
-\
-In einer Pfanne Spaghetti, Avocadopesto, Salz und Pfeffer vermischen und alles bei mittlerer Hitze 3 - 5 Minuten heiß werden lassen.\
-Die Avocado-Nudeln mit Tomatenhälften, gerösteten Pinienkernen und Basilikumblättern garnieren und mit etwas Parmesan bestreuen.
+Numquam qui dolore porro esse quidem et consequuntur repudiandae. Ipsa eaque necessitatibus animi. Harum aut perferendis et laudantium. Quam vero aut et ut. Et incidunt sed voluptatem occaecati ut quis qui. Odit repellendus ex omnis dolorum ea.

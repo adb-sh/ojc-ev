@@ -4,12 +4,21 @@ title: Verein
 menu:
   header: false
 ---
+
 # Verein
 
-Die Idee des Vereins entstand erstmals im Winter 2022. Hier wurde unser Vorsitzender Tigo Stolzenberger, damals noch in der Funktion als Schülersprecher des Gymnasiums Coswig, zur Coswiger Sozialraumkonferenz eingeladen. Die Sozialraumkonferenz beschäftigt sich mit Akteuren aus allen Personengruppen mit der Frage, wie Coswig sozial zugänglicher und lebenswerter für alle werden kann. Bereits dort machte sich Tigo dafür stark, mehr Angebote für Jugendliche, inbs. auch ältere Jugendliche, in Coswig zu schaffen. Die Idee wurde weiter verfolgt und in ein konkretes Projekt-Vorhaben verwandelt: Ein selbstverwalteter Jugendtreff von Jugendlichen für Jugendlichen. Für dieses Vorhaben wollten wir auch eine Förderung über das GIHK (Gebietsbezogenes integriertes Handlungskonzept, ein Fördertopf der EU & des sächs. Landtags für lokale, soziale Projekte) beantragen. Dafür benötigte es jedoch einen Trägerverein und bevor wir uns lange auf die Suche begeben, haben wir unseren eigenen Trägerverein im November 2023 gegründet.
+Der Offene Jugendring Coswig e.V. hat sich im November 2023 gegründet. Die Idee daraus entstand im Rahmen der Coswiger Sozialraumkonferenz 2022 und den damit verbundenen Projektanträgen. Bereits hier setzten wir uns dafür ein, dass der Fokus im Rahmen dieser Anträge nicht nur auf Angeboten für Kinder oder Familien liegt, sondern auch Jugendliche insb. ab 16 Jahren Beachtung finden. So entstand der Offene Jugendtreff.
 
 ## Jugendtreff
 
-Unser wöchentlicher Jugendtreff soll Jugendlichen ab 16 Jahren die Möglichkeit geben, das Format selbstverwaltet und kollektiv nach den eigenen Wünschen zu gestalten. Der Verein stellt den Raum, die Infrastruktur, kümmert sich um die Angelegenheiten im Hintergrund und gemeinsam mit dem Jugendlichen wird die inhaltliche Ausgestaltung erarbeitet: Ob Spiele- oder Filmabend, Diskussionsrunden, Workshops oder Infoveranstaltungen. Für größere Veranstaltungen wie Jugend-Partys, Open-Mic-Konzerte, Public Viewings oder Sporttuniere sind wir im kooperativen Austausch mit anderen Coswiger Jugendinitiativen wie dem Exil, CVJM, JuCo sowie Jugendinitiativen aus dem Raum Meißen.
+Die Idee hinter dem Offenen Jugendtreff ist es, Jugendlichen ab 16 Jahren die Möglichkeit zu geben, sich niederschwellig in einem Format zu treffen, dass sie selbst gestalten und verwalten. Die inhaltliche Ausgestaltung des Jugendtreffs wird also von den Jugendlichen kollektiv selbst erarbeitet. Jeden Sonntag ist unser Raum im "Stadtteilladen L29" auf der Lindenauer Straße 29 in Coswig ab 18 Uhr geöffnet. Getränke, Snacks, Spiele & Co. gibt es vor Ort.
 
-![Kofinanziert von der EU](/media/images/efre-esf_lo_kombination_eu-logo_freistaatsachsen_h_rgb_600dpi.jpg)
+## Veranstaltungen
+
+Über den Jugendtreff hinaus sind wir auch bemüht, größere Veranstaltungen wie Diskussionsrunden, Themenabende, Workshops, kleine Partys oder Info-Veranstaltungen zu organisieren. Dafür sind wir im Austausch mit dem Jugendhaus Exil und versuchen, unsere Kräfte für gemeinsame Veranstaltungen zu bündeln. Wir sind immer offen für neue Ideen von Jugendlichen und diese mit ihnen gemeinsam in ein geeignetes Veranstaltungsformat zu gießen.
+
+---
+
+**Kofinanziert von der EU:**
+
+![Logo der EU und dem Freistaat Sachsen](/media/images/efre-esf_lo_kombination_eu-logo_freistaatsachsen_h_rgb_600dpi.jpg)

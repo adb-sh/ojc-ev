@@ -472,7 +472,7 @@ der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
 
 Zuständige Aufsichtsbehörde:
 
-Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit\
+Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit\ 
 Graurheindorfer Str. 153\
 53117 Bonn\
 Telefon: +49(0)228-997799-0\
